@@ -6,3 +6,4 @@ This repository contains some projects and codes to learn Rust.
 - The `h` directories contains some projects for learning crates and doing something meaningful.
 - The `net` directories contains projects related to network.
 - The `q` directories contains solutions to some warm up problems in Rust.
+- The `db` directories contains practices in [Talent Plan Course](https://github.com/pingcap/talent-plan).
